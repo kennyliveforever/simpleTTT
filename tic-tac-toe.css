@@ -1,0 +1,25 @@
+#bdy {
+  background-color: grey;
+}
+
+.block {
+  height: 600px;
+  width: 600px;
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  grid-template-rows: 200px 200px 200px;
+  grid-column-gap: 5px;
+  grid-row-gap: 5px;
+}
+
+.wrapper {
+  background-color: white;
+  border: solid;
+  border-color: blue;
+  border-radius: 15px;
+  font-family: Comic;
+  font-size: 70pt;
+  text-align: center;
+  padding-top: 35px;
+  color: red;
+}
