@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @kennyliveforever
-- 🌱 I’m currently learning ...
+Simple Tic-Tac-Toe game. 
+Just for fun
